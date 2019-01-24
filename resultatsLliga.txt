@@ -1,0 +1,157 @@
+Classificació de la lliga: 
+
+BBVALiga\Valencia Punts: 3
+BBVALiga\Bar�a Punts: 5
+BBVALiga\Madrid Punts: 6
+Top de jugadors que més han marcat: 
+Pinto - 2 gols
+Emmanuel - 2 gols
+Slatan - 2 gols
+Xavi - 2 gols
+Carles - 2 gols
+
+Partits de la lliga:
+Partit 01:Alineacions local:
+5 - Maxwel
+1 - Victor
+21 - Andres
+15 - Pinto
+7 - Samuel
+6 - Xavi
+3 - Gerard
+25 - Pinto
+2 - Dani
+11 - Andres
+9 - Bojan
+Alineacions visitant:
+25 - Pinto
+11 - Andres
+9 - Bojan
+10 - Leo
+2 - Dani
+7 - Samuel
+13 - Emmanuel
+6 - Xavi
+3 - Gerard
+15 - Pinto
+8 - Slatan
+Partit 11:Alineacions local:
+9 - Bojan
+4 - Carles
+2 - Dani
+3 - Gerard
+8 - Slatan
+13 - Emmanuel
+15 - Pinto
+6 - Xavi
+5 - Maxwel
+1 - Victor
+7 - Samuel
+Alineacions visitant:
+11 - Andres
+21 - Andres
+10 - Leo
+6 - Xavi
+7 - Samuel
+1 - Victor
+2 - Dani
+3 - Gerard
+13 - Emmanuel
+4 - Carles
+8 - Slatan
+Partit 21:Alineacions local:
+8 - Slatan
+13 - Emmanuel
+6 - Xavi
+7 - Samuel
+9 - Bojan
+10 - Leo
+21 - Andres
+4 - Carles
+11 - Andres
+2 - Dani
+5 - Maxwel
+Alineacions visitant:
+10 - Leo
+15 - Pinto
+3 - Gerard
+8 - Slatan
+6 - Xavi
+2 - Dani
+4 - Carles
+5 - Maxwel
+7 - Samuel
+21 - Andres
+9 - Bojan
+Partit 31:Alineacions local:
+5 - Maxwel
+3 - Gerard
+15 - Pinto
+11 - Andres
+2 - Dani
+13 - Emmanuel
+1 - Victor
+10 - Leo
+7 - Samuel
+9 - Bojan
+8 - Slatan
+Alineacions visitant:
+3 - Gerard
+5 - Maxwel
+21 - Andres
+25 - Pinto
+13 - Emmanuel
+2 - Dani
+8 - Slatan
+4 - Carles
+9 - Bojan
+1 - Victor
+11 - Andres
+Partit 41:Alineacions local:
+15 - Pinto
+7 - Samuel
+9 - Bojan
+10 - Leo
+13 - Emmanuel
+4 - Carles
+25 - Pinto
+5 - Maxwel
+6 - Xavi
+2 - Dani
+3 - Gerard
+Alineacions visitant:
+8 - Slatan
+25 - Pinto
+1 - Victor
+5 - Maxwel
+6 - Xavi
+2 - Dani
+11 - Andres
+4 - Carles
+13 - Emmanuel
+21 - Andres
+10 - Leo
+Partit 51:Alineacions local:
+21 - Andres
+1 - Victor
+25 - Pinto
+5 - Maxwel
+3 - Gerard
+7 - Samuel
+9 - Bojan
+6 - Xavi
+10 - Leo
+13 - Emmanuel
+2 - Dani
+Alineacions visitant:
+11 - Andres
+4 - Carles
+8 - Slatan
+2 - Dani
+7 - Samuel
+9 - Bojan
+6 - Xavi
+1 - Victor
+21 - Andres
+10 - Leo
+25 - Pinto

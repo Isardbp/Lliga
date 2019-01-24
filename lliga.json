@@ -1,0 +1,24 @@
+{
+	"lliga": {
+		"nomLliga": "BBVA",
+		"equips": [
+			{
+				"nomEquip": "Barça",
+				"punts": 15,
+				"numEquips": 5,
+				"jugadors": [
+					{
+						"10": {
+							"dorcal": 10,
+							"edat": 40,
+							"nom": "leo",
+							"cognom": "Messi",
+							"gols": -15,
+							"altura": -45
+						}
+					}
+				]
+			}
+		]
+	}
+}
